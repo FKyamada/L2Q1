@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Fila.cpp
+  No.cpp
+  Teste.cpp
+e:\3°sem\estrutura de dados\l2q01\project2\teste.cpp(3): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  Gerando Código...
+e:\3°sem\estrutura de dados\l2q01\project2\fila.cpp(83): warning C4715: 'Fila::remove': nem todos os caminhos de controle retornam um valor
+  Project2.vcxproj -> E:\3°SEM\Estrutura de Dados\L2Q01\Debug\L2Q01.exe
